@@ -16,7 +16,7 @@ The analysis involved cleaning the dataset to remove inconsistencies and missing
 - The majority of drinking fountains in NYC parks are painted, indicating that they have been maintained or refurbished.
 - The most common type of drinking fountain observed is Type A, based on the provided data.
   
-![Types of Fountains](fountain types.png)
+![Types of Fountains](FountainTypes.png)
 
 ## Tableau Dashboard
 

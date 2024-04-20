@@ -8,7 +8,8 @@ This project analyzes the NYC Parks Drinking Fountains dataset to gain insights 
 
 The dataset was obtained from [NYC OpenData](https://data.cityofnewyork.us/Recreation/NYC-Parks-Drinking-Fountains/qnv7-p7a2/about_data).
 
-## Analysis
+## Pandas Analysis (From Jupyter Notebook)
+[NYC Parks Drinking Fountains Analysis.ipynb](NYC_Parks_Drinking_Fountains_Analysis.ipynb)
 
 The analysis involved cleaning the dataset to remove inconsistencies and missing values. Some key findings from the analysis include:
 
@@ -18,6 +19,11 @@ The analysis involved cleaning the dataset to remove inconsistencies and missing
   
 ![Types of Fountains](FountainTypes.png)
 
+## SQL Analysis 
+[NYC_Fountains_Analysis.sql](NYC_Fountains_Analysis.sql)
+- Added SQL queries to perform advanced analysis, such as calculating fountain density by borough, finding nearest fountains to a given location, and ranking fountains based on fountain count.
+- Demonstrated proficiency in PostgreSQL, including the use of window functions, subqueries, and conditional aggregation.
+  
 ## Tableau Dashboard
 
 A Tableau dashboard was created to visualize the distribution of drinking fountains across different boroughs and explore various characteristics of the fountains. The dashboard includes:
